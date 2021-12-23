@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+input{
+    margin-top:5% ;
+    width: 500px;
+    height: 3em; 
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.input button{
+  height: 3em;
+  width:fit-content;
+  background-color:plum;
+  padding:0 8px;
+}
+.dictonary-data{
+   position: absolute;
+   left: 30%;
+
+}
+.th{
+    position: absolute;
+    margin-left: -80px;
+}
+.syno{
+    padding-left: 10px;
+}
+table button{
+    float: left;
+}
+table th img{
+float: left;}
+table th span{
+    float: left;
+}
+
+
+
